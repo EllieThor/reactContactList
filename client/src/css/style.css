@@ -1,0 +1,21 @@
+.myfForm {
+  border: 1px solid blue;
+  width: 400px;
+}
+
+.archive {
+  border: 1px solid blue;
+  width: 700px;
+}
+
+.deletedUserROW {
+  border-bottom: 1px solid blue;
+}
+
+.searchROW {
+  width: 600px;
+}
+
+.sortROW {
+  width: 400px;
+}
